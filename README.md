@@ -9,3 +9,35 @@ Then using simple algebra the distance between the two 3D co-ordinates is calcul
 A plane is detected in the vertical and horizontal orientation to display the distance between the two co-ordinates.
 
 And the result is displayed in the vertical orientation near the last selected point.
+
+# Repository Structure
+
+    ├── AR Ruler
+    │   ├── AppDelegate.swift
+    │   ├── Assets.xcassets
+    │   │   ├── AppIcon.appiconset
+    │   │   │   └── Contents.json
+    │   │   └── Contents.json
+    │   ├── Base.lproj
+    │   │   ├── LaunchScreen.storyboard
+    │   │   └── Main.storyboard
+    │   ├── Info.plist
+    │   ├── ViewController.swift
+    │   └── art.scnassets
+    │       ├── ship.scn
+    │       └── texture.png
+    ├── AR Ruler.xcodeproj
+    │   ├── project.pbxproj
+    │   ├── project.xcworkspace
+    │   │   ├── contents.xcworkspacedata
+    │   │   ├── xcshareddata
+    │   │   │   └── IDEWorkspaceChecks.plist
+    │   │   └── xcuserdata
+    │   │       └── pranjalbhardwaj.xcuserdatad
+    │   │           └── UserInterfaceState.xcuserstate
+    │   └── xcuserdata
+    │       └── pranjalbhardwaj.xcuserdatad
+    │           └── xcschemes
+    │               └── xcschememanagement.plist
+    └── README.md
+
