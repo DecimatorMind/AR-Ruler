@@ -1,4 +1,5 @@
-![](https://img.shields.io/badge/Language-Swift-orange)
+
+![](https://img.shields.io/badge/Author-Pranjal_Bhardwaj-green)![](https://img.shields.io/badge/Language-Swift-orange)
 
 # AR-Ruler
 An Augmented Reality Ruler that measures distance between two points and displays it in 3D text
